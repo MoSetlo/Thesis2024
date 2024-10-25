@@ -410,13 +410,11 @@ void loop(){
   AnglePitch=0.98*(AnglePitch+(RatePitch*0.005)) + 0.02*((atan(-AccelX/sqrt(AccelY*AccelY + AccelZ*AccelZ)) * 57.2958)-AnglePitchCalib);
 
 // additional
-Pyaw=(newJoyStk->Pyaw);
-  Iyaw=(newJoyStk->Iyaw);
-  Dyaw=(newJoyStk->Dyaw);
+Pyaw=60
+  Iyaw=9
 
-  Ppitch=(newJoyStk->Ppitch);
-  Ipitch=(newJoyStk->Ipitch);
-  Dpitch=(newJoyStk->Dpitch);
+  Ppitch=0.3
+  Dpitch=5
 //
   
 
