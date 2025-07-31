@@ -1,6 +1,6 @@
 # Thesis2024
 
-## Report - https://drive.google.com/drive/folders/1f2lx2jlqezw4tI6jubJ7p_Oo5HgsuzDn?usp=sharing
+##### Report - https://drive.google.com/drive/folders/1f2lx2jlqezw4tI6jubJ7p_Oo5HgsuzDn?usp=sharing
 
 
 The purpose of this study is to design and implement a lightweight control system and remote
